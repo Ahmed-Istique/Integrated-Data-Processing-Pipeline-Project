@@ -9,3 +9,15 @@ Technology sued:
 Language : Python 3.12 
 Library: requests library version 2.31.0
 
+<img width="598" height="266" alt="image" src="https://github.com/user-attachments/assets/e6ce4e45-b435-4b40-b1c4-6f015a75690b" />
+
+# Task 2: Image Scene Segmentation and Annotation:
+<img width="598" height="523" alt="image" src="https://github.com/user-attachments/assets/479ef74f-1ff8-4319-b160-54828c56d426" />
+<img width="579" height="452" alt="image" src="https://github.com/user-attachments/assets/583ee0a6-1962-4225-a296-62e54c68af72" />
+
+Convert JSON to VOC(xml format)
+<img width="542" height="672" alt="image" src="https://github.com/user-attachments/assets/9300e3c3-8639-4e43-baa9-59ffeff4130c" />
+# Task 3: Data Visualization
+<img width="631" height="429" alt="image" src="https://github.com/user-attachments/assets/55dd84cc-acca-4a9f-abfc-e762f9f86c6f" />
+<img width="607" height="410" alt="image" src="https://github.com/user-attachments/assets/306ea4a4-8537-4131-bb68-4fed36e592c0" />
+
